@@ -1,9 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T09:37:25.887Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" version="24.3.1" etag="3tXRSavMHDZpIjBNnxjG" type="github">
-  <diagram name="Page-1" id="brkTWN-CFOW2rvk6yE-G">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2024-05-03T11:52:43.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="RbAI1zNPSQaLotXxwmcn" version="24.3.1" type="github">
+  <diagram name="ITIL" id="brkTWN-CFOW2rvk6yE-G">
+    <mxGraphModel dx="2538" dy="926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-3" value="ITIL service value system" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="300" width="880" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-7" value="Guiding principles" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="YWBs9a-tN9Q9Ji88H_SF-3">
+          <mxGeometry x="120" y="60" width="660" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-6" value="Governance" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="YWBs9a-tN9Q9Ji88H_SF-7">
+          <mxGeometry x="120" y="70" width="420" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-5" value="Service value chain" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="YWBs9a-tN9Q9Ji88H_SF-6">
+          <mxGeometry x="110" y="90" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-8" value="Organizations and people" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-9" value="Information and technology" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-10" value="Partners and suppliers" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-11" value="Value streams and processes" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="210" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-12" value="Service provider" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="815" y="40" width="460" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-14" value="Service consumer" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="40" width="560" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-15" value="Customer" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="YWBs9a-tN9Q9Ji88H_SF-14">
+          <mxGeometry x="20" y="60" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-18" value="Defines the requirements for a service and takes responsibility for the outcomes of service consumption" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YWBs9a-tN9Q9Ji88H_SF-15">
+          <mxGeometry y="30" width="175" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-16" value="Users" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="YWBs9a-tN9Q9Ji88H_SF-14">
+          <mxGeometry x="240" y="50" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-19" value="Person who uses the service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YWBs9a-tN9Q9Ji88H_SF-16">
+          <mxGeometry y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-17" value="Sponsors" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="YWBs9a-tN9Q9Ji88H_SF-14">
+          <mxGeometry x="410" y="70" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-20" value="Person who authorizes budget for service consumption" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YWBs9a-tN9Q9Ji88H_SF-17">
+          <mxGeometry y="30" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
