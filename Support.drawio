@@ -1,56 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T11:52:43.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="RbAI1zNPSQaLotXxwmcn" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-21T13:56:37.020Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="u5yO9b0mefKoGPuf-HAT" version="24.3.1" type="github" pages="2">
   <diagram name="ITIL" id="brkTWN-CFOW2rvk6yE-G">
-    <mxGraphModel dx="2538" dy="926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1780" dy="1376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-3" value="ITIL service value system" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-3" value="ITIL service value system" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-190" y="300" width="880" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-7" value="Guiding principles" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="YWBs9a-tN9Q9Ji88H_SF-3">
+        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-7" value="Guiding principles" style="swimlane;whiteSpace=wrap;html=1;" parent="YWBs9a-tN9Q9Ji88H_SF-3" vertex="1">
           <mxGeometry x="120" y="60" width="660" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-6" value="Governance" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="YWBs9a-tN9Q9Ji88H_SF-7">
+        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-6" value="Governance" style="swimlane;whiteSpace=wrap;html=1;" parent="YWBs9a-tN9Q9Ji88H_SF-7" vertex="1">
           <mxGeometry x="120" y="70" width="420" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-5" value="Service value chain" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="YWBs9a-tN9Q9Ji88H_SF-6">
+        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-5" value="Service value chain" style="swimlane;whiteSpace=wrap;html=1;" parent="YWBs9a-tN9Q9Ji88H_SF-6" vertex="1">
           <mxGeometry x="110" y="90" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-8" value="Organizations and people" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-8" value="Organizations and people" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="50" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-9" value="Information and technology" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-9" value="Information and technology" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="210" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-10" value="Partners and suppliers" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-10" value="Partners and suppliers" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="50" y="120" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-11" value="Value streams and processes" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-11" value="Value streams and processes" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="210" y="120" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-12" value="Service provider" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-12" value="Service provider" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="815" y="40" width="460" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-14" value="Service consumer" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-14" value="Service consumer" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1460" y="40" width="560" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-15" value="Customer" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="YWBs9a-tN9Q9Ji88H_SF-14">
+        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-15" value="Customer" style="swimlane;whiteSpace=wrap;html=1;" parent="YWBs9a-tN9Q9Ji88H_SF-14" vertex="1">
           <mxGeometry x="20" y="60" width="180" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-18" value="Defines the requirements for a service and takes responsibility for the outcomes of service consumption" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YWBs9a-tN9Q9Ji88H_SF-15">
+        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-18" value="Defines the requirements for a service and takes responsibility for the outcomes of service consumption" style="rounded=0;whiteSpace=wrap;html=1;" parent="YWBs9a-tN9Q9Ji88H_SF-15" vertex="1">
           <mxGeometry y="30" width="175" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-16" value="Users" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="YWBs9a-tN9Q9Ji88H_SF-14">
+        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-16" value="Users" style="swimlane;whiteSpace=wrap;html=1;" parent="YWBs9a-tN9Q9Ji88H_SF-14" vertex="1">
           <mxGeometry x="240" y="50" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-19" value="Person who uses the service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YWBs9a-tN9Q9Ji88H_SF-16">
+        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-19" value="Person who uses the service" style="rounded=0;whiteSpace=wrap;html=1;" parent="YWBs9a-tN9Q9Ji88H_SF-16" vertex="1">
           <mxGeometry y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-17" value="Sponsors" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="YWBs9a-tN9Q9Ji88H_SF-14">
+        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-17" value="Sponsors" style="swimlane;whiteSpace=wrap;html=1;" parent="YWBs9a-tN9Q9Ji88H_SF-14" vertex="1">
           <mxGeometry x="410" y="70" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-20" value="Person who authorizes budget for service consumption" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YWBs9a-tN9Q9Ji88H_SF-17">
+        <mxCell id="YWBs9a-tN9Q9Ji88H_SF-20" value="Person who authorizes budget for service consumption" style="rounded=0;whiteSpace=wrap;html=1;" parent="YWBs9a-tN9Q9Ji88H_SF-17" vertex="1">
           <mxGeometry y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="XmAQkWmuWGIuaaYGBMd4" name="Incident management">
+    <mxGraphModel dx="744" dy="1101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T3XdvZQ6Gyo7fMa_6A_E-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Incident mgmt&lt;/h1&gt;&lt;div&gt;Purpose of incident mgmt is to minimize the negative impact of incidents by restoring normal service operation asap&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;an incident is an unplanned interruption to a service or reduction in quality of a service&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="10" width="180" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T3XdvZQ6Gyo7fMa_6A_E-2" value="Incident" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="310" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="T3XdvZQ6Gyo7fMa_6A_E-3" value="Target resolution time" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="T3XdvZQ6Gyo7fMa_6A_E-2">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T3XdvZQ6Gyo7fMa_6A_E-4" value="Prioritisation" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="T3XdvZQ6Gyo7fMa_6A_E-2">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T3XdvZQ6Gyo7fMa_6A_E-5" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="T3XdvZQ6Gyo7fMa_6A_E-2">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
